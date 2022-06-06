@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "546935772071",
+    "project_id": "trusteddelivery-d6153",
+    "storage_bucket": "trusteddelivery-d6153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546935772071:android:d7e5dbc2e40a1ea01bdc82",
+        "android_client_info": {
+          "package_name": "com.inventory_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546935772071-ta3kqur4hgtvsr66l90agvo7lk89k2sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAenuioX8CRAUlqqtT3-26XJ0vb5CWFExs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546935772071-ta3kqur4hgtvsr66l90agvo7lk89k2sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546935772071:android:d5d1d59c090399711bdc82",
+        "android_client_info": {
+          "package_name": "com.trustedds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546935772071-ta3kqur4hgtvsr66l90agvo7lk89k2sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAenuioX8CRAUlqqtT3-26XJ0vb5CWFExs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546935772071-ta3kqur4hgtvsr66l90agvo7lk89k2sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
